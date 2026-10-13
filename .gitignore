@@ -1,1 +1,12 @@
-Day/Day1/.env
+.env
+#virtual environment
+.venv/ 
+venv/
+env/
+
+#python
+
+#vs code
+.vscode/setting.json
+# os files
+Thumbs.db
